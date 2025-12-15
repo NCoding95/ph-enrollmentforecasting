@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (if too large)
+*.csv.bak
+*.xlsx.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (if too large)
+*.pkl
+*.joblib
+*.h5
+
+# Output files (optional - keep if you want outputs in repo)
+# outputs/*.png
+
+# Temporary files
+*.tmp
+*.log
